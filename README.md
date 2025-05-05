@@ -17,9 +17,17 @@ grep "error" /var/log/messages | head -n 5
 -Команда grep ищет все совпадение со строкой "error" в общем журнале системы  
 -(pipe) | передает вывод команде head  
 -head -n 5  выводит первые пять строк из результата 
+Вывод команды:  
+
+![image](https://github.com/user-attachments/assets/c63a1a65-84d5-4931-b9a0-6fb1fe550390)  
+
 
 Задача 4  
 ![image](https://github.com/user-attachments/assets/2ca1f747-90d7-422f-a374-b10b19dc1988)  
+
+Файл с текстом:  
+![image](https://github.com/user-attachments/assets/104e59aa-bc5d-45dc-8917-725bf6d6fe5f)  
+
 
 Скрипт:  
 ![image](https://github.com/user-attachments/assets/817ddd4f-1394-49eb-badc-de8d71a9450b)  
