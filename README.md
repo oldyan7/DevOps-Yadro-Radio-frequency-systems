@@ -8,7 +8,7 @@ echo 'Hello, DevOps!' > ~/hello.txt && cat ~/hello.txt
 Что делает команда:  
 -Выводит 'Hello, DevOps!' на экран с помощью команды echo  
 -Записывает вывод 'Hello, DevOps!' в файл ~/hello.txt в домашней директории  
--&& cat ~/hello.txt, если запись прошла успешно, то выводит содержимое файла hello.txt
+-&& cat ~/hello.txt, если запись прошла успешно, то выводит содержимое файла hello.txt  
 
 Задача 3  
 ![image](https://github.com/user-attachments/assets/ed266a70-32b8-41e3-8396-738a76426b11)  
